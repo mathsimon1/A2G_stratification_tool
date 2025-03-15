@@ -1,0 +1,13 @@
+name: myapp
+title:
+username: mathieusimonin
+account: mathieusimonin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10041856
+bundleId: 7790147
+url: https://mathieusimonin.shinyapps.io/myapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData

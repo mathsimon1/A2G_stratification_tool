@@ -1,0 +1,12 @@
+name: AllTogether_stratification
+title: AllTogether_stratification
+username: mathieusimonin
+account: mathieusimonin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13601313
+bundleId: 9937917
+url: https://mathieusimonin.shinyapps.io/AllTogether_stratification/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
